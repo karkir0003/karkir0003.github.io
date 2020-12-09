@@ -1,9 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome!
 
-You can use the [editor on GitHub](https://github.com/karkir0003/karkir0003.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a second year undergraduate Computer Science student at Georgia Institute of Technology with focus on Artificial Intelligence and Modeling/Simulation. I'm from Belle Mead, NJ. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+As the amount of data being produced is increasing rapidly, it's interesting to be able to derive meaning from data in order to make informed decisions. As a result, I became interested in using data science to help solve challenging problems. 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
