@@ -13,15 +13,19 @@ Occassionally, I'm actively exploring new areas of Computer Science through side
 
 ### Past Projects
 1. Stock Analysis Project
-Include repo link to Stock Analysis Project
+
+Include repo link to Stock Analysis Project. Talk about the process. 
 
 2. Farm Simulation Application
+
 Include screenshots of game
 
 ### What do I do outside of work?
 
 When I'm not busy, I like to play card games with my friends. I'm willing to pick up any new card games, so feel free to message me about your favorite card games! I also like to watch intriguing TED-talks. Currently, I'm learning to cook and so far enjoy the process.
 
-### Support or Contact
+### Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Feel free to introduce yourself, say hi and inquire about my experience.
+
+Fill out this [form](https://formspree.io/f/mnqogbpb) to start a conversation
