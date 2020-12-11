@@ -3,33 +3,24 @@
 I'm a second year undergraduate Computer Science student at Georgia Institute of Technology with focus on Artificial Intelligence and Modeling/Simulation. I'm from Belle Mead, NJ. 
 
 As the amount of data being produced is increasing rapidly, it's interesting to be able to derive meaning from data in order to make informed decisions. As a result, I became interested in using data science to help solve challenging problems. 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### What have I been up to?
 
-```markdown
-Syntax highlighted code block
+I've been involved with a student organization called Data Science Club at Georgia Tech (DSGT). The main mission of this club is to make data science accessible for those who are new to the field and DSGT provides a virtual bootcamp curriculum, project opportunities, Hacklytics, and more to drive this mission forward. I'm currently part of the Content Team and my main responsibilities include developing interactive Python notebooks to illuminate the fundamentals of data science and presenting content to audience of 50+ students. Check out our [website](https://datasciencegt.org/) to learn more about the organization!
 
-# Header 1
-## Header 2
-### Header 3
+Occassionally, I'm actively exploring new areas of Computer Science through side projects with friends and through hackathons.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Past Projects
+1. Stock Analysis Project
+Include repo link to Stock Analysis Project
 
-**Bold** and _Italic_ and `Code` text
+2. Farm Simulation Application
+Include screenshots of game
 
-[Link](url) and ![Image](src)
-```
+### What do I do outside of work?
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/karkir0003/karkir0003.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+When I'm not busy, I like to play card games with my friends. I'm willing to pick up any new card games, so feel free to message me about your favorite card games! I also like to watch intriguing TED-talks. Currently, I'm learning to cook and so far enjoy the process.
 
 ### Support or Contact
 
