@@ -29,3 +29,5 @@ When I'm not busy, I like to play card games with my friends. I'm willing to pic
 Feel free to introduce yourself, say hi and inquire about my experience.
 
 Fill out this [form](https://formspree.io/f/mnqogbpb) to start a conversation
+
+<input type="text" id="name" name="name"/>
