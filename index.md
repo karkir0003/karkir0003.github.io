@@ -22,7 +22,7 @@ Include screenshots of game
 
 ### What do I do outside of work?
 
-When I'm not busy, I like to play card games with my friends. I'm willing to pick up any new card games, so feel free to message me about your favorite card games! I also like to watch intriguing TED-talks. Currently, I'm learning to cook and so far enjoy the process.
+When I'm not busy, I like to play card games with my friends. I'm willing to pick up any new card games, so feel free to message me about your favorite card games! I also like to watch intriguing TED-talks. I'm also a fan of logic puzzles (I'm currently reading a book called "Alice in Puzzleland" by Raymond Smullyan and so far enjoy his style of writing). Currently, I'm learning to cook and so far enjoy the process.
 
 ### Contact
 
