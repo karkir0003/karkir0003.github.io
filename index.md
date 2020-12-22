@@ -12,10 +12,14 @@ Occassionally, I'm actively exploring new areas of Computer Science through side
 
 
 ### Past Projects
-1. Stock Analysis Project
-
-Include repo link to Stock Analysis Project. Talk about the process. 
-
+1. **Stock Analysis Project**
+- Project for Hacklytics 2020 (data science oriented hackathon) done in a team of 3 people
+- The algorithm scrapes Reddit data on a given company to predict the next day's stock price
+- AlphaVantage API was used to get the stock price data while the Pushshift API was used to get the relevant Reddit posts
+- SpaCy toolkit was used for processing the Reddit data and Random Forest Regressor was used as the model on a dataset of 30000+
+- Acheived accuracy of 85-95% with mean absolute error of $33.70 on a dataset with standard deviation $69
+- [Repository Link](https://github.com/dakshthemaker/Stonks)
+- [Devpost Submission](https://devpost.com/software/stonks-i431j0)
 2. Farm Simulation Application
 
 Include screenshots of game
