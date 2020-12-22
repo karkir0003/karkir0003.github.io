@@ -29,6 +29,7 @@ Occassionally, I'm actively exploring new areas of Computer Science through side
 
 When I'm not busy, I like to play card games with my friends. I'm willing to pick up any new card games, so feel free to message me about your favorite card games! I also like to watch intriguing TED-talks. I'm also a fan of logic puzzles (I'm currently reading a book called "Alice in Puzzleland" by Raymond Smullyan and so far enjoy his style of writing). Currently, I'm learning to cook and so far enjoy the process.
 
+<img src = puzzleland>
 ### Contact
 
 Feel free to introduce yourself, say hi and inquire about my experience.
