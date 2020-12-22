@@ -20,7 +20,10 @@ Occassionally, I'm actively exploring new areas of Computer Science through side
 - Acheived accuracy of 85-95% with mean absolute error of $33.70 on a dataset with standard deviation $69
 - [Repository Link](https://github.com/dakshthemaker/Stonks)
 - [Devpost Submission](https://devpost.com/software/stonks-i431j0)
-2. Farm Simulation Application
+2. **Farm Simulation Application**
+•	Leveraged Agile Design Principles to develop an interactive Java FX farm simulation application in a team of 5 over the course of the Fall 2020 semester
+•	Implemented OOP principles to develop framework, extensively tested codebase using Junit framework
+
 
 Include screenshots of game
 
